@@ -23,6 +23,12 @@
 Crear un proyecto completo de Pruebas Automatizadas usando _Java_ y _Selenium_, con Suites,
 Etiquetas e Informes, validando también una API con _RestAssured_.
 
+## Sistema bajo prueba 
+[ParaBank](https://parabank.parasoft.com/parabank/index.htm)
+
+Crear un proyecto completo de Pruebas Automatizadas usando _Java_ y _Selenium_, con Suites,
+Etiquetas e Informes, validando también una API con _RestAssured_.
+
 ## Pruebas Front-end
 
 _Las siguientes condiciones son requisitos mínimos necesarios para la aprobación de cada caso de prueba:_
